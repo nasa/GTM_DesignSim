@@ -1,7 +1,7 @@
 #GTM_DesignSim: The Generic Transport Model
 
 The GTM_DesignSim is a batch simulation intended for design and analysis of flight control laws.  It models the
-dynamics of a 5.5% scale model of a generic transport aircraft.  It was developed to allow fault accomidating control
+dynamics of a 5.5% scale model of a generic transport aircraft.  It was developed to allow fault accomodating control
 algorithms to be developed and refined in simulation before being tested on an experimental subscale model.  
 
 See:
